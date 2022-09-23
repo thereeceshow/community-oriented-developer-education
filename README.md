@@ -2,21 +2,8 @@
 
 ## Table of Contents
 
-| Topic | Link |
-| ------ | ------- |
-| HTML | Section |
-| CSS | Section |
-| JavaScript | Section |
+### [HTML Resources](./HTML.md)
+### [CSS Resources](./CSS.md)
+### [CSS Tricks](./CSS.md#css-tricks)
+### [JavaScript Resources](./JS.md)
 
-``` html
-<html>
-    <head>
-        <title>This is the Title</title>
-    </head>
-    <body>
-        <div class="container">
-            <h1>Title Page</h1>
-        </div>
-    <body>
-</html>
-```
